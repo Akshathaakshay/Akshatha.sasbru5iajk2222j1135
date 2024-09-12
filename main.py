@@ -8,7 +8,3 @@ number = int(input("Enter a value :"))
 res = fact_rect(number)
 
 print("The Factorial of {} is {}.".format(number,res))
-
-
-
-
